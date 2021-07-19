@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/component/Footer.css"],"names":[],"mappings":"AAAA,QACI,cAAe,CACf,mBAA2B,CAC3B,QAAS,CACT,UAAW,CACX,WAAY,CACZ,kBAEF","file":"main.902d7ae3.chunk.css","sourcesContent":[".footer{\n    position: fixed;\n    padding: 10px 10px 0px 10px;\n    bottom: 0;\n    width: 100%;\n    height: 40px;\n    background: #E1E8EB;\n  \n  }"]}
